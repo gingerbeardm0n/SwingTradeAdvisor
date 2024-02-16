@@ -1,0 +1,10 @@
+{
+  "name": "stock-analysis-app",
+  "version": "1.0.0",
+  "dependencies": {
+    // Add the necessary dependencies here
+  },
+  "scripts": {
+    // Add the necessary scripts here
+  }
+}
